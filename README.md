@@ -27,7 +27,7 @@ AVR(ATmega128A), ARM(STM32F405RGT6), Arduino(MEGA 2560), Raspberry Pi(3 Model A+
 
 프레임워크 / Framework / フレームワーク
 ----------------------------------------
-
+django
 
 <!---
 sso9409/sso9409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
